@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <rect width="120" height="120" rx="30" fill="#0f172a"/>
+  <!-- Orbital rings -->
+  <ellipse cx="60" cy="60" rx="40" ry="15" fill="none" stroke="#7c3aed" stroke-width="6" transform="rotate(30 60 60)"/>
+  <ellipse cx="60" cy="60" rx="40" ry="15" fill="none" stroke="#db2777" stroke-width="6" transform="rotate(150 60 60)"/>
+  <ellipse cx="60" cy="60" rx="40" ry="15" fill="none" stroke="#ca8a04" stroke-width="6" transform="rotate(90 60 60)"/>
+  <!-- Nucleus -->
+  <circle cx="60" cy="60" r="12" fill="#fffdf0"/>
+</svg>
